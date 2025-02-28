@@ -1,0 +1,8 @@
+// Renderhints
+renderhint NormalAndSpecMapped
+
+// Textures
+texture0 c_water_new
+texture1 c_water_new_n
+texture2 c_water_new_s
+texture3 c_water_new_r

@@ -1,0 +1,12 @@
+renderhint NormalAndSpecMapped 
+ 
+// Textures 
+texture0 btlfire
+texture1 btlfire_n 
+texture2 null 
+texture3 null 
+texture4 btlfire_h 
+texture5 null
+
+
+

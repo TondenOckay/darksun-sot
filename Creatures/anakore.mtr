@@ -1,0 +1,13 @@
+customshadervs vslit_nm
+customshaderfs fslit_nm 
+renderhint NormalAndSpecMapped
+ 
+// Textures 
+texture0 anakore
+texture1 anakore_n
+texture2 null
+texture3 null
+texture4 anakore_h
+texture5 null
+
+parameter float Roughness 0.65

@@ -1,0 +1,6 @@
+// Renderhint
+renderhint normalandspecmapped
+
+// Textures
+texture0 peryton
+texture1 peryton_n

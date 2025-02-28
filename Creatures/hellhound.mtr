@@ -1,0 +1,10 @@
+ 
+renderhint NormalAndSpecMapped
+ 
+// Textures 
+texture0 hellhound_d
+texture1 hellhound_n
+texture2 hellhound_s
+texture3 hellhound_r
+texture4 null
+texture5 hellhound_i

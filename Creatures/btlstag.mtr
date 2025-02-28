@@ -1,0 +1,9 @@
+// Renderhint
+renderhint NormalAndSpecMapped
+
+// Textures
+texture0 btlstag
+texture1 btlstag_n
+texture2 null
+texture3 null
+texture4 btlstag_h

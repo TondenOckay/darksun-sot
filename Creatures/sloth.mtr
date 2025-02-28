@@ -1,0 +1,8 @@
+ 
+renderhint NormalAndSpecMapped
+ 
+// Textures 
+texture0 sloth
+texture1 sloth_n
+texture2 sloth_s
+texture3 sloth_r

@@ -1,0 +1,8 @@
+// Renderhint
+renderhint NormalAndSpecMapped
+
+// Textures
+texture0 braxat03
+texture1 braxat03_n
+texture2 braxat03_s
+texture3 braxat03_r

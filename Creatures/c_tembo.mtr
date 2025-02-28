@@ -1,0 +1,6 @@
+// Renderhint
+renderhint normalandspecmapped
+
+// Textures
+texture0 c_tembo_d
+texture1 c_tembo_n

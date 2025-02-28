@@ -1,0 +1,10 @@
+ 
+renderhint NormalAndSpecMapped
+ 
+// Textures 
+texture0 ana_tweed
+texture1 ana_tweed_N
+texture2 null
+texture3 null
+texture4 ana_tweed_H
+texture5 null

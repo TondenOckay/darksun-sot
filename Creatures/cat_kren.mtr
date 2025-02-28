@@ -1,0 +1,10 @@
+ 
+renderhint NormalAndSpecMapped
+ 
+// Textures 
+texture0 cat_kren_d
+texture1 cat_kren_n
+texture2 cat_kren_s
+texture3 null
+texture4 null
+texture5 null

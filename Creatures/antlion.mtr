@@ -1,0 +1,14 @@
+customshadervs vslit_nm
+customshaderfs fslit_nm
+renderhint NormalAndSpecMapped
+ 
+// Textures 
+texture0 antlion
+texture1 antlion_n
+texture2 null
+texture3 null
+texture4 antlion_h
+texture5 null
+
+parameter float Roughness 0.35
+parameter float Specularity 0.35

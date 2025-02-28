@@ -1,0 +1,10 @@
+ 
+renderhint NormalAndSpecMapped
+ 
+// Textures 
+texture0 pmh0_pelvis095
+texture1 pmh0_pelvis095_n
+texture2 null
+texture3 null
+texture4 null
+texture5 null
